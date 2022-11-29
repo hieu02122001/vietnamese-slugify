@@ -1,0 +1,27 @@
+{
+  "name": "vietnamese-slugify",
+  "version": "1.0.0",
+  "description": "Slugify module for Vietnamese",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieu02122001/vietnamese-slugify.git"
+  },
+  "keywords": [
+    "slug",
+    "slugify-vietnamese",
+    "vietnamese-slugify"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieu02122001/vietnamese-slugify/issues"
+  },
+  "homepage": "https://github.com/hieu02122001/vietnamese-slugify#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
